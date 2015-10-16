@@ -1,6 +1,6 @@
 {
   "name": "sharedb-retrium",
-  "version": "0.8.5",
+  "version": "0.8.9",
   "description": "JSON OT database backend",
   "main": "lib/index.js",
   "dependencies": {
